@@ -1,0 +1,323 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.res{
+    width: 220px;
+    height: 410px;
+    margin-top: 100px;
+    background-color: rgb(238, 187, 47);
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.res2{
+    width: 200px;
+    height: 200px;
+    background-image: url("./img/кымыз.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res3{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.res4{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.res6{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.res5{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    padding: 11px 33px ;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.res7{
+    width: 220px;
+    height: 410px;
+    margin-top: 100px;
+    background-color: rgb(238, 187, 47);
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.res8{
+    width: 200px;
+    height: 200px;
+    background-image: url("./img/чалап.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res9{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.res10{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.res11{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.res12{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    padding: 11px 33px ;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.res13{
+    width: 220px;
+    height: 410px;
+    margin-top: 100px;
+    background-color: rgb(238, 187, 47);
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.res14{
+    width: 200px;
+    height: 200px;
+    background-image: url("./img/компот.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res15{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.res16{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.res17{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.res18{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    padding: 11px 33px ;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.res19{
+    width: 220px;
+    height: 410px;
+    margin-top: 100px;
+    background-color: rgb(238, 187, 47);
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.res20{
+    width: 200px;
+    height: 200px;
+    background-image: url("./img/чалап.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res21{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.res22{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.res23{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.res24{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    padding: 11px 33px ;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.res25{
+    width: 220px;
+    height: 410px;
+    margin-top: 100px;
+    background-color: rgb(238, 187, 47);
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.res26{
+    width: 200px;
+    height: 200px;
+    background-image: url("./img/чалап.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res27{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.res28{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.res29{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.res30{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    padding: 11px 33px ;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.res31{
+    width: 220px;
+    height: 410px;
+    margin-top: 100px;
+    background-color: rgb(238, 187, 47);
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.res32{
+    width: 200px;
+    height: 200px;
+    background-image: url("./img/чалап.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.res33{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.res34{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.res35{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.res36{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Montserrat;
+    margin-top: 10px;
+    padding: 11px 33px ;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.front{
+    display: flex;
+
+}
+.alert{
+    display: flex;
+    margin-top: -40px;
+}
